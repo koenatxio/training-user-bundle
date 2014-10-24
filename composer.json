@@ -1,0 +1,8 @@
+{
+  "name": "xio/user-bundle",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
