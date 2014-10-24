@@ -1,5 +1,8 @@
 {
   "name": "xio/user-bundle",
+  "autoload": {
+    "psr-4": { "Xio\\Bundle\\UserBundle\\": "." }
+  },
   "extra": {
     "branch-alias": {
       "dev-master": "1.0-dev"
